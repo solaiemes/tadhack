@@ -7,9 +7,9 @@ public class Constants {
 	////////////////// PAY ATTENTON !! : MUST EDIT THESE VALUES//////////////////
 	//////////////////////////////////////////////////////
 	public static final String SERVICE_ECO_USERNAME="USERNAME_VALUE";
-	public static final String API_KEY="YOUR_API_KEY_VALUE (For example: 5c8bXXXXXXXXXXXXXXXXX417";
-	public static final String API_ID="YOUR_API_ID_VALUE (For example: 6bXXXC)";
-	public static final String SERVER_ROOT="YOUR_RCSAPI_SERVER_ROOT_VALUE (For example: XXXXX.solaiemes.com)";
+	public static final String API_KEY="YOUR API_KEY VALUE (For example: 5c8bXXXXXXXXXXXXXXXXX417";
+	public static final String API_ID="YOUR API_ID VALUE (For example: 6bXXXC)";
+	public static final String SERVER_ROOT="YOUR SERVER_ROOT VALUE (For example: XXXXX.solaiemes.com)";
 	//////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////
 	
