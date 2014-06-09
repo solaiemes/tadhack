@@ -77,7 +77,7 @@ public class Main extends Thread{
 		
 		
 		try {
-			UserProvisioning.unregister(Constants.SERVICE_ECO_USERNAME,null);
+			UserProvisioning.unregister(Constants.SERVICE_ECO_USERNAME,Constants.API_ID);
 		} catch (Exception e) {
 			log.error("Echo Sevices can't run ",e);
 		}finally{
